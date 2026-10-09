@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">MERZ</title>
+  <desc id="desc">A silver MERZ wordmark on charcoal with a geometric M and restrained muted-blue accents.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22272e"/>
+      <stop offset="1" stop-color="#14181e"/>
+    </linearGradient>
+    <linearGradient id="steel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef1f5"/>
+      <stop offset="1" stop-color="#aeb8c4"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="278" rx="16" fill="url(#surface)" stroke="#424b57" stroke-width="2"/>
+  <path d="M64 58H1136M64 222H1136" stroke="#36404c"/>
+  <path d="M64 58H134" stroke="#8aa4c4" stroke-width="3"/>
+  <text x="64" y="162" fill="url(#steel)" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700" letter-spacing="12">MERZ</text>
+  <text x="69" y="198" fill="#a5b1bf" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5">EJHAYGIT / DEVELOPER</text>
+  <g fill="none" stroke-linecap="square">
+    <path d="M765 89V191M818 89V191M871 89V191M924 89V191M977 89V191M1030 89V191M1083 89V191M748 106H1100M748 140H1100M748 174H1100" stroke="#303945"/>
+    <path d="M820 183V97L924 166L1028 97V183" stroke="#b5bfcb" stroke-width="10"/>
+    <path d="M820 183V149M1028 97V131" stroke="#829cbb" stroke-width="10"/>
+    <path d="M1100 222H1136" stroke="#8aa4c4" stroke-width="3"/>
+  </g>
+</svg>
