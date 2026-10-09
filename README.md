@@ -44,5 +44,5 @@ A fleet-management and facial-recognition attendance prototype connecting an And
 
 ## Contact
 
-[Portfolio: merzbuilds.dev](https://merzbuilds.dev) (coming soon)<br>
+[Portfolio: merzbuilds.dev](https://merzbuilds.dev)<br>
 [ejhay.zapata22@gmail.com](mailto:ejhay.zapata22@gmail.com) · [GitHub](https://github.com/EJhayGit)
