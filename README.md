@@ -76,13 +76,15 @@ Technologies used in the projects above.
 
 ## How I Build with Coding Agents
 
-I use OpenAI Codex as a coding agent throughout development. My workflow:
+I build software by directing coding agents, mainly OpenAI Codex, and I treat that as engineering work with its own rules:
 
-1. **Write the spec first:** requirements, scope and acceptance criteria in the repository.
-2. **Give small, focused tasks** with the project context the agent needs.
-3. **Review every change** before accepting it.
-4. **Verify before release** with automated tests and manual walkthroughs.
-5. **Disclose AI contributions** next to my own work.
+1. **Spec before code.** Each project starts with written requirements, scope and acceptance criteria, plus an `AGENTS.md` file that gives the agent the project's conventions.
+2. **Small, checkable tasks.** One feature or fix at a time, with the context the agent needs and a clear definition of done.
+3. **I review every diff.** Nothing merges just because the agent says it works.
+4. **Tests are the gate.** Automated tests, including Playwright browser tests, must pass before release, followed by a manual walkthrough.
+5. **Honest disclosure.** I record what the AI wrote and what I wrote, so my work can be judged fairly.
+
+Next, I'm learning how agents work on the inside by building my own: tool calling, MCP, RAG and evals (see [Now Building](#now-building)).
 
 CartCheck is a practical example of this workflow: I owned the product direction and scope, worked with substantial AI assistance, and documented both AI contributions and my own code. See the [AI usage, decisions, and verification record](https://github.com/EJhayGit/CartCheck/blob/main/AI-USAGE.md).
 
