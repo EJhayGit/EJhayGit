@@ -27,9 +27,9 @@ A full-stack grocery management application for planning shopping lists and revi
 
 ### [A Mobile-Based CNN Face Recognition Attendance System with GPS Location Validation](https://github.com/EJhayGit/A-Mobile-Based-CNN-Face-Recognition-Attendance-System-with-GPS-Location-Validation)
 
-**Academic research prototype · Main developer**
+**Academic research prototype · Thesis submitted and passed · Main developer**
 
-A fleet-management and facial-recognition attendance prototype connecting an Android driver app, a web dashboard, and a backend API. I led much of the implementation and was responsible for model training. I evaluated the model on LFW and AgeDB-30 and published the weak results alongside the strong ones.
+A fleet-management and facial-recognition attendance prototype for construction field personnel, connecting an Android app, a web dashboard, and a backend API. I led much of the implementation and was responsible for model training. I evaluated the model on LFW and AgeDB-30 and published the weak results alongside the strong ones.
 
 <sub>Flutter · Python · FastAPI · PostgreSQL · Docker</sub>
 
@@ -82,11 +82,11 @@ I build software by directing coding agents, mainly OpenAI Codex, and I treat th
 2. **Small, checkable tasks.** One feature or fix at a time, with the context the agent needs and a clear definition of done.
 3. **I review every diff.** Nothing merges just because the agent says it works.
 4. **Tests are the gate.** Automated tests, including Playwright browser tests, must pass before release, followed by a manual walkthrough.
-5. **Honest disclosure.** I record what the AI wrote and what I wrote, so my work can be judged fairly.
+5. **Honest disclosure.** I say plainly when a project was built with AI, so my work can be judged fairly.
 
 Next, I'm learning how agents work on the inside by building my own: tool calling, MCP, RAG and evals (see [Now Building](#now-building)).
 
-CartCheck is a practical example of this workflow: I owned the product direction and scope, worked with substantial AI assistance, and documented both AI contributions and my own code. See the [AI usage, decisions, and verification record](https://github.com/EJhayGit/CartCheck/blob/main/AI-USAGE.md).
+CartCheck is a practical example of this workflow: I owned the product direction and scope and worked with substantial AI assistance.
 
 ## Contact
 
